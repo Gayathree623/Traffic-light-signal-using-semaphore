@@ -1,0 +1,1 @@
+The program controls vehicle movement at a four-way intersection by allowing only one direction of traffic to pass at a time while restricting others. Semaphores are used to synchronize the access of vehicles to the intersection, ensuring that multiple processes do not enter the critical section simultaneously.
